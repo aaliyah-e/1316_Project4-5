@@ -122,13 +122,13 @@ button {
 
 /* unordered list stuff */
 #tidbits {
-  list-style-image: url('/images/letter.png');
+  list-style-image: url('images/letter.png');
   list-style-position: inside;
   list-style-type: square;
 }
 
 #comingSoon {
-  list-style-image: url('/images/lilheart.png');
+  list-style-image: url('images/lilheart.png');
   list-style-position: inside;
   list-style-type: disc;
   margin-right: 50px;
